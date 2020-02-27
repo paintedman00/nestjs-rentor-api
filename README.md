@@ -2,7 +2,7 @@
 
 A restful CRUD API created using NestJS and MongoDB with authentication and authorization.
 
-There is a rnestjs-postman-collection-api with in the files for execution .
+There is a nestjs-postman-collection-api with in the files for execution .
 
 API end points :
 ==============
